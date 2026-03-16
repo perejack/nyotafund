@@ -68,6 +68,10 @@ const Footer = () => {
                 <span>ELDORET, Uasin Gishu, Postal Code 50200</span>
               </li>
               <li className="flex items-center gap-3 text-xs md:text-sm text-primary-foreground/70">
+                <Phone className="w-4 h-4 flex-shrink-0" />
+                <span>0105575260</span>
+              </li>
+              <li className="flex items-center gap-3 text-xs md:text-sm text-primary-foreground/70">
                 <Mail className="w-4 h-4 flex-shrink-0" />
                 <span>lonamurunga.dr@gmail.com</span>
               </li>
